@@ -37,6 +37,6 @@ module.exports = {
     disableHostCheck: true,
     host: '0.0.0.0',
     port: 9000,
-    sockPort: 443,
+    sockPort: 'location',
   },
 };
