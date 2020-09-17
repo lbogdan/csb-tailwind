@@ -1,0 +1,21 @@
+{
+  "name": "tailwind-template",
+  "version": "1.0.0",
+  "private": "true",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "css-loader": "^4.3.0",
+    "html-webpack-plugin": "^4.4.1",
+    "postcss": "^8.0.3",
+    "postcss-loader": "^4.0.2",
+    "style-loader": "^1.2.1",
+    "tailwindcss": "^1.8.10",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
